@@ -213,7 +213,7 @@
 
 .addressline1 .txt {
   text-decoration: underline;
-  color: var(--white);
+  color: var(--brightred);
   font-family: "Nunito", sans-serif;
   position: absolute;
   top: 32%;
@@ -223,7 +223,7 @@
 
 .addressline1 .txt:hover {
   text-decoration: none;
-  color: var(--brightred);
+  color: var(--white);
   transition: all 0.2s ease-out;
 }
 
